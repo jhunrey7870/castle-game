@@ -13,7 +13,7 @@ elif playerChoice == "3":
     print("You can either choose:")
     print("1. Steal the dragon's expensive s20 ultra")
     print("2. Carefully go pass the dragon")
-    print("Select your life decision:)
+    print("Select your life decision:")
     dragonChoice = input("Choose 1 or 2")
     if dragonChoice == "1":
         print("Nah too bad, the dragon noticed his aod went off and he ate you alongside your j7 2016")
