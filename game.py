@@ -13,8 +13,7 @@ elif playerChoice == "3":
     print("You can either choose:")
     print("1. Steal the dragon's expensive s20 ultra")
     print("2. Carefully go pass the dragon")
-    print("Select your life decision:")
-    dragonChoice = input("Choose 1 or 2")
+    dragonChoice = input("Select your life decision:")
     if dragonChoice == "1":
         print("Nah too bad, the dragon noticed his aod went off and he ate you alongside your j7 2016")
         print("You have lost the game!")
@@ -23,6 +22,15 @@ elif playerChoice == "3":
         print("You have beaten the game! Congratulations!!")
     else:
         print("u idiot select one or two lmao")
+elif playerChoice == "4""
+    print("You have entered a room and theres a witch, he has a random number from 1 to 5, try to guess what is it")
+    number = int(input("Choose your number:"))
+    if number == random.randint(1,5):
+        print("The witch was sad and feel ashamed because you guessed right! He drank some H2SO4 and dissolved!")
+        print("You have won the game!")
+    else:
+        print("Too bad, your answer is incorrect and now you have to become the witch's slave for the rest of your life!")
+        print("You have lost the game, try again!")
 else:
     print("Too bad, try again, you have not selected 1 or 2 or 3 or 4 at all =/")
 print("Restart the game to enjoy the adventure again!")
