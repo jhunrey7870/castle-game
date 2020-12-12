@@ -22,7 +22,7 @@ elif playerChoice == "3":
         print("You have beaten the game! Congratulations!!")
     else:
         print("u idiot select one or two lmao")
-elif playerChoice == "4""
+elif playerChoice == "4"
     print("You have entered a room and theres a witch, he has a random number from 1 to 5, try to guess what is it")
     number = int(input("Choose your number:"))
     if number == random.randint(1,5):
