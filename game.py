@@ -35,4 +35,4 @@ elif playerChoice == "4":
         print("You have lost the game, try again!")
 else:
     print("Too bad, try again, you have not selected 1 or 2 or 3 or 4 at all =/")
-exitChoice = input("Press enter to restart the game and enjoy the adventure again! (press space and enter to exit)")
+    exitChoice = input("Press enter to restart the game and enjoy the adventure again! (press space and enter to exit)")
