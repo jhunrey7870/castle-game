@@ -1,6 +1,6 @@
 import random
 print("Bạm bị kẹt trong 1 tòa lâu đài tối thui mà chính bạn cũng ko biết tại sao bạn lại ở đó :v")
-print("Ở đó có 4 cánh cưadlr mà bạn có thể đi qua")
+print("Ở đó có 4 cánh cửa mà bạn có thể đi qua")
 playerChoice = input("Chọn 1,2,3 hoặc 4:")
 if playerChoice == "1":
     print("nah bạn đã chết bởi vì ko có lý do =))")
