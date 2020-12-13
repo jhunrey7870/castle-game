@@ -1,4 +1,6 @@
 import random
+exitChoice = "jhunrey is gay lmao"
+while exitChoice != " "
 print("Bạm bị kẹt trong 1 tòa lâu đài tối thui mà chính bạn cũng ko biết tại sao bạn lại ở đó :v")
 print("Ở đó có 4 cánh cửa mà bạn có thể đi qua")
 playerChoice = input("Chọn 1,2,3 hoặc 4:")
@@ -33,4 +35,4 @@ elif playerChoice == "4":
         print("Bạn đã thua cuộc!")
 else:
     print("bạn đã k chọn 1 hay 2 hay 3 hay 4 =/")
-print("Chạy lại game để khám phá lại!")
+exitChoice = input("Chạy lại game để khám phá lại!")
