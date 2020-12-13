@@ -1,6 +1,6 @@
 import random
 exitChoice = "jhunrey is gay lmao"
-while exitChoice != " ":
+while exitChoice != "ping is handsome":
 print("You are stuck inside a dark room inside a weird af castle that somehow u got inside")
 print("Theres also 4 doors, you have to choose one that can help you gtfo")
 playerChoice = input("Choose 1,2,3 or 4:")
