@@ -35,4 +35,4 @@ elif playerChoice == "4":
         print("Bạn đã thua cuộc!")
 else:
     print("bạn đã k chọn 1 hay 2 hay 3 hay 4 =/"))
-exitChoice = input("Ấn enter để hạy lại game và khám phá lại! (ấn phím cách và enter để thoát)")
+    exitChoice = input("Ấn enter để hạy lại game và khám phá lại! (ấn phím cách và enter để thoát)")
