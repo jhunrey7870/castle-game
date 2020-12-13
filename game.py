@@ -1,4 +1,6 @@
 import random
+exitChoice = "jhunrey is gay lmao"
+while exitChoice != " "
 print("You are stuck inside a dark room inside a weird af castle that somehow u got inside")
 print("Theres also 4 doors, you have to choose one that can help you gtfo")
 playerChoice = input("Choose 1,2,3 or 4:")
@@ -33,4 +35,4 @@ elif playerChoice == "4":
         print("You have lost the game, try again!")
 else:
     print("Too bad, try again, you have not selected 1 or 2 or 3 or 4 at all =/")
-print("Restart the game to enjoy the adventure again!")
+exitChoice = input("Press enter to restart the game and enjoy the adventure again!")
